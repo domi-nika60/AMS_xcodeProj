@@ -1,0 +1,65 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - Easy (2.7):
+    - Easy/Core (= 2.7)
+    - Easy/Session (= 2.7)
+  - Easy/Core (2.7):
+    - SnapKit (~> 4.2.0)
+  - Easy/Session (2.7):
+    - Alamofire (~> 4.8.2)
+    - Easy/Core
+  - ImageViewer (6.0.0)
+  - PullToRefreshKit (0.8.8)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Alamofire
+  - AlamofireImage
+  - Easy
+  - ImageViewer
+  - PullToRefreshKit
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - Alamofire
+    - AlamofireImage
+    - Easy
+    - ImageViewer
+    - PullToRefreshKit
+    - SnapKit
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  Easy: 4ca2eaee3f66b99fb4197daed7342e394c044316
+  ImageViewer: cb88ef1c0ba19161bc10702adfdcebc116a7a59d
+  PullToRefreshKit: 7cc53e720e69f135cffa1a57784dfb534f0222ab
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 6250bfd9794a40c662fc90acea34e13ad6c52500
+
+COCOAPODS: 1.10.0
